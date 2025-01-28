@@ -31,7 +31,7 @@ const Home = () => {
     <div>
       <Header />
       <main className="p-4">
-        <h1 className="text-3xl font-bold mb-4">Welcome to the Food App</h1>
+        {/* <h1 className="text-3xl font-bold mb-4">Welcome to the Food App</h1> */}
         <FeaturedRestaurants restaurants={sampleRestaurants} />
       </main>
       <Footer />
