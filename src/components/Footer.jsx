@@ -29,12 +29,11 @@ const Footer = () => (
       </div>
       <hr className="border-t-2 border-gray-600 w-full" />
       <div className="flex justify-between items-center">
-        <p>&copy; 2025 My Company</p>
+        <p>&copy; 2025 your Company</p>
         <nav>
           <ul className="flex space-x-4">
-            <li><a href="/" className="hover:text-gray-400">Home</a></li>
-            <li><a href="/about" className="hover:text-gray-400">About Us</a></li>
-            <li><a href="/contact" className="hover:text-gray-400">Contact</a></li>
+            <li><a href="/" className="hover:text-gray-400">Made with  by ThemeWagon</a></li>
+            
           </ul>
         </nav>
       </div>
