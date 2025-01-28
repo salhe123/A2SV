@@ -1,4 +1,4 @@
-import RestaurantCard from '../RestaurantCard/RestaurantCard';
+import RestaurantCard from './RestaurantCard';
 import { restaurants } from '../../utils/constants';
 
 export default function FeaturedRestaurants() {
